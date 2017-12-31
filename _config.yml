@@ -27,10 +27,10 @@ greeting:
   title: 歡迎踏入夜行生物的世界。
   text: 其實更可能是個禿頭生物。
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: 未知
 # - displayed at the bottom
 closing-head: 多謝觀賞。
-closing-para: 祝夜好。
+closing-para: 祝安。
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
