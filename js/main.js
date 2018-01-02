@@ -61,7 +61,6 @@
 					speed: 1500,
 					offset: $header.outerHeight()
 				});
-
 		// Menu.
 			$('#menu')
 				.append('<a href="#menu" class="close"></a>')
@@ -76,7 +75,6 @@
 					target: $body,
 					visibleClass: 'is-menu-visible'
 				});
-		             
 
 		// Header.
 			if (skel.vars.IEVersion < 9)
