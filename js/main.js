@@ -76,13 +76,13 @@
 					target: $body,
 					visibleClass: 'is-menu-visible'
 				});
-		          $('#menu').ready(function(){
-                             .hover(function(){
-                              .css("background-color","yellow");
-                              },function(){
-                              .css("background-color","pink");
+		               .ready(function(){
+                                .hover(function(){
+                                 .css("background-color","yellow");
+                                 },function(){
+                                 .css("background-color","pink");
+                                });
                             });
-                         });
 
 		// Header.
 			if (skel.vars.IEVersion < 9)
