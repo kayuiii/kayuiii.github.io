@@ -77,10 +77,10 @@
 					visibleClass: 'is-menu-visible'
 				});
 		          $('#menu').ready(function(){
-                            $("p").hover(function(){
-                              $("p").css("background-color","yellow");
+                             .hover(function(){
+                              .css("background-color","yellow");
                               },function(){
-                              $("p").css("background-color","pink");
+                              .css("background-color","pink");
                             });
                          });
 
