@@ -9,9 +9,9 @@ tags:
   - Visualization
 ---
 
-#### Results
+#### 概況
 
-- 24% increase in M, measured by N
+- 在期中項目中，我們小組討論的項目為“我國部分常見廢棄物的處理”。
 - ...
 
 #### Summary
