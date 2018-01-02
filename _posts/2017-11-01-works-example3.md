@@ -5,9 +5,8 @@ excerpt: 部分學習筆記
 categories: works
 background-image: 网页设计封面图.jpg
 tags:
-  - This
-  - That
-  - The other
+  - Website
+  - Note
 ---
 
 #### 課程概況
