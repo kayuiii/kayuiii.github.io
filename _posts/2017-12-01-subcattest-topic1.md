@@ -1,7 +1,7 @@
 ---
 title: 信息可視化學習筆記
 excerpt: “哪一個圖表更適合你”的相關筆記
-permalink: /infovis/note/
+permalink: /topics/my topic group/
 categories:
   - 信息可視化
   - 學習筆記
