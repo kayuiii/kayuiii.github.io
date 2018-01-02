@@ -1,5 +1,5 @@
 ---
-priority: 0.6
+layout: article
 title: 期中項目
 excerpt: 小組合作的可視化專題
 date:   2017-10-1 15:07:50 +0800
