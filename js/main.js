@@ -76,6 +76,13 @@
 					target: $body,
 					visibleClass: 'is-menu-visible'
 				});
+		          $('#menu').ready(function(){
+                            $("p").hover(function(){
+                              $("p").css("background-color","yellow");
+                              },function(){
+                              $("p").css("background-color","pink");
+                            });
+                         });
 
 		// Header.
 			if (skel.vars.IEVersion < 9)
