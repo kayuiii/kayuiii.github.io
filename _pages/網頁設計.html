@@ -1,7 +1,7 @@
 ---
 key: 1
 title: 網頁設計
-permalink: /portfolio/
+permalink: /works/
 excerpt: 網頁設計 I 學習筆記
 image: 网页设计封面图.jpg
 background-image: 网页设计封面图.jpg
@@ -15,16 +15,16 @@ if site.social.linkedin-square %}
 </div>{%
 endif %}
 {%
-if site.categories.portfolio %}
+if site.categories.works %}
 <div class="table-wrapper">
   <table>
     <tbody>{%
-      include fn_groupsort_reverse.html unsorted=site.categories.portfolio groupby='priority' sortby='date'
+      include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
 %}{%  for portfolio in sorted_list %}
       <tr>
-        <td><b><a href="{{ portfolio.url | prepend: site.baseurl }}">{{ portfolio.title }}</a></b></td>
-        <td>{{ portfolio.date | date: "%b %Y" }}</td>
-        <td>{{ portfolio.excerpt | strip_html | truncatewords: 12 }}</td>
+        <td><b><a href="{{ works.url | prepend: site.baseurl }}">{{ works.title }}</a></b></td>
+        <td>{{ works.date | date: "%b %Y" }}</td>
+        <td>{{ works.excerpt | strip_html | truncatewords: 12 }}</td>
         <td>
           {% include techlist.html %}
         </td>
