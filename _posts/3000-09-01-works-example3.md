@@ -1,9 +1,9 @@
 ---
 priority: 0.6
-title: Project Z
-excerpt: An example of d and e
+title: 網頁設計
+excerpt: 部分學習筆記
 categories: works
-background-image: works-sample.png
+background-image: 网页设计封面图.jpg
 tags:
   - This
   - That
