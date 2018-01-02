@@ -76,13 +76,7 @@
 					target: $body,
 					visibleClass: 'is-menu-visible'
 				});
-		                .ready(function(){
-                                 .hover(function(){
-                                  .css("background-color","yellow");
-                                  },function(){
-                                  .css("background-color","pink");
-                                 });
-                             });
+		             
 
 		// Header.
 			if (skel.vars.IEVersion < 9)
