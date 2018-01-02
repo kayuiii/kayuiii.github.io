@@ -1,7 +1,7 @@
 ---
 priority: 0.7
-title: Project Y
-excerpt: A better example of a and b, with c
+title: 期中項目
+excerpt: 可視化
 categories: works
 background-image: works-sample.png
 tags:
