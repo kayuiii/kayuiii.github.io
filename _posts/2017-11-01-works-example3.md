@@ -35,8 +35,9 @@ tags:
     使用@media規則聲明這是媒體查詢
    
 3. **媒體查詢可以測試哪些特性**
-    width：視口寬度
-    height：視口寬度
-    device-width/height：渲染表面的高度/寬度
-    orientation：設備方向是水平還是垂直
-    等等
+- width：視口寬度
+- height：視口寬度
+- device-width/height：渲染表面的高度/寬度
+- orientation：設備方向是水平還是垂直
+
+等等
