@@ -3,7 +3,7 @@ priority: 0.7
 title: 期中項目
 excerpt: 可視化
 categories: works
-background-image: works-sample.png
+background-image: 信息可视化封面图.jpg
 tags:
   - Project
   - Visualization
