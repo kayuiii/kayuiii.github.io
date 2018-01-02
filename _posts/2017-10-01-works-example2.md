@@ -5,9 +5,8 @@ excerpt: 可視化
 categories: works
 background-image: works-sample.png
 tags:
-  - This
-  - That
-  - The other
+  - Project
+  - Visualization
 ---
 
 #### Results
