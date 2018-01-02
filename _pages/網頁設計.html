@@ -20,7 +20,7 @@ if site.categories.works %}
   <table>
     <tbody>{%
       include fn_groupsort_reverse.html unsorted=site.categories.works groupby='priority' sortby='date'
-%}{%  for portfolio in sorted_list %}
+%}{%  for work in sorted_list %}
       <tr>
         <td><b><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></b></td>
         <td>{{ work.date | date: "%b %Y" }}</td>
