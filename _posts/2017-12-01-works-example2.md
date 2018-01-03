@@ -1,13 +1,14 @@
 ---
 priority: 0.7
-title: 
-excerpt: 
+title: 信息可視化設計
+excerpt: 我國部分常見廢棄物的排放情況與處理情況
 categories: works
 background-image: 信息可视化封面图.png
 tags:
   - Visualization
-  - Project
+  - Note
 ---
+
 
 ### 概況
 
