@@ -3,7 +3,8 @@ title: 一些關於網頁設計與製作的中英文匹配
 excerpt: 網頁設計與製作 I 學習筆記
 permalink: /infovis/note/
 categories:
-   - topics
+  - topics
+  - 學習筆記
 date: 2017-12-01 00:00
 ---
 
