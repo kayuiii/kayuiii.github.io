@@ -1,11 +1,14 @@
 ---
-title: 一些關於網頁設計與製作的中英術語匹配
+title: 一些關於網頁設計與製作的中英文匹配
 excerpt: 網頁設計與製作 I 學習筆記
+permalink: /topics/note/
 categories:
-  - topics
+  - topics
   - 學習筆記
-date: 2017-12-20 14：00
+date: 2017-12-01 00:00
 ---
+
+
 
 ### 響應式web技術相關的三種已有技術
 
