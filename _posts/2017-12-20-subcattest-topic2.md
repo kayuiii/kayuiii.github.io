@@ -1,7 +1,7 @@
 ---
 title: 一些關於網頁設計與製作的中英文匹配
 excerpt: 網頁設計與製作 I 學習筆記
-permalink: /topics/note/
+permalink: /infovis/note/
 categories:
   - topics
   - 學習筆記
@@ -17,7 +17,7 @@ date: 2017-12-01 00:00
 - （非响应式Web设计必需） → AJAX
 - 媒体查询 → media query
 
-> RWD2 p.2 1.2 什么是响应式 Web 设计
+> RWD2  p.2  1.2  什么是响应式 Web 设计
 
 
 ### 媒体查询能检测的特性
@@ -30,7 +30,7 @@ date: 2017-12-01 00:00
 - 视口宽度 → width
 - 检测设备是处於横向或纵向 → orientation
 
-> RWD p.26 2.2.2 媒体查询能检测哪些特性
+> RWD  p.26  2.2.2  媒体查询能检测哪些特性
 
 ### ARIA 的地标角色
 
@@ -43,4 +43,4 @@ date: 2017-12-01 00:00
 - 用来定义一个站点级别（而不是某个特定文档的）区域。如网站的头部logo。 → banner
 - 定义页面的主体内容。 → main
 
-> RWD p90-91 ARIA的地标角色。
+> RWD  p90-91  ARIA的地标角色。
