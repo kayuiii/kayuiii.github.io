@@ -5,8 +5,8 @@ excerpt: “哪一個圖表或圖形更適合您”的相關筆記
 categories: works
 background-image: 信息可视化封面图.png
 tags:
-  - Note
-  - Visualization
+  - Visualization
+  - Note
 ---
 
 ## Tableau常用圖表
