@@ -14,7 +14,7 @@
    - [信息可視化設計--期末項目](https://kayuiii.github.io/works/hotpot-visualization.html)
 
 
-- [學習筆記主頁](https://kayuiii.github.io/portfolio/)
+- [學習筆記主頁](https://kayuiii.github.io/posts/)
    - [一些關於網頁設計與製作的中英文匹配](https://kayuiii.github.io/infovis/note/)
    - [信息可視化學習筆記](https://kayuiii.github.io/topics/note/)
    - [RWD-學習筆記](https://kayuiii.github.io/topics/rwd-notes.html)
