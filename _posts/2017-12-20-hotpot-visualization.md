@@ -23,3 +23,7 @@ tags:
 - 小龍坎火鍋
 - 蜀九香火鍋
 - 香天下火鍋
+
+### Tableau視圖
+
+[川渝系火鍋主要品牌在全國的情況](https://public.tableau.com/shared/DWK29M9X8?:display_count=yes)
