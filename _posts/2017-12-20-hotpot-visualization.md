@@ -3,7 +3,7 @@ priority: 0.6
 title: 期末信息可視化項目
 excerpt: 關於川系火鍋店的探究
 categories: works
-background-image: 111.jpg
+background-image: huoguo-visualization.jpg
 tags:
   - Visualization
   - Project
