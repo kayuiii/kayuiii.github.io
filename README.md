@@ -9,11 +9,12 @@
 
 - [主頁](https://kayuiii.github.io/)
 
-- [網頁設計主頁](https://kayuiii.github.io/works/)
-   - [網頁設計&信息可視化設計--期中項目](https://kayuiii.github.io/works/works-example2.html)
-   - [網頁設計學習筆記](https://kayuiii.github.io/works/works-example3.html)
+- [作品集主頁](https://kayuiii.github.io/infovis/)
+   - [網頁設計&信息可視化設計--期中項目](https://kayuiii.github.io/works/visualization.html)
+   - [信息可視化設計--期末項目](https://kayuiii.github.io/works/hotpot-visualization.html)
 
 
-- [信息可視化設計主頁]()
-   - [網頁設計&信息可視化設計--期中項目](https://kayuiii.github.io/works/works-example2.html)
+- [學習筆記主頁](https://kayuiii.github.io/portfolio/)
+   - [一些關於網頁設計與製作的中英文匹配](https://kayuiii.github.io/infovis/note/)
    - [信息可視化學習筆記](https://kayuiii.github.io/topics/note/)
+   - [RWD-學習筆記](https://kayuiii.github.io/topics/rwd-notes.html)
