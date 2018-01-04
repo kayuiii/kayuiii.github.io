@@ -2,8 +2,9 @@
 priority: 0.7
 title: 信息可視化設計
 excerpt: 我國部分常見廢棄物的排放情況與處理情況
+permalink: /infovis/qizhong/
 categories: works
-background-image: 信息可视化封面图.png
+background-image: visualization.png
 tags:
   - Visualization
   - Note
