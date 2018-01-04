@@ -26,4 +26,10 @@ tags:
 
 ### Tableau視圖
 
+根據獲得的數據，討論了“川系火鍋在我國的總體分佈情況”、“川系火鍋在我國的總體分佈情況分析”和“通過各省川系火鍋店的數量進行分析”三個話題。
+**請點擊下方鏈接前往Tableau Public查看詳細信息。**
+
 [川渝系火鍋主要品牌在全國的情況](https://public.tableau.com/shared/DWK29M9X8?:display_count=yes)
+
+
+
