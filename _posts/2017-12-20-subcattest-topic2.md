@@ -1,7 +1,7 @@
 ---
 title: 一些關於網頁設計與製作的中英文匹配
 excerpt: 網頁設計與製作 I 學習筆記
-permalink: /portfolio/website/
+permalink: /posts/website/
 categories:
   - topics
   - 學習筆記
