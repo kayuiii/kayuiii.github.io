@@ -12,8 +12,7 @@ tags:
 
 <div class='tableauPlaceholder' id='viz1515271669295' style='position: relative'><noscript>
   <a href='#'>
-    <img alt='&lt; 四家川渝系火鍋品牌分佈對比&gt; 
-              'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KQ&#47;KQMGTSNQK&#47;1_rss.png' style='border: none' />
+    <img alt='&lt; 四家川渝系火鍋品牌分佈對比&gt;'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KQ&#47;KQMGTSNQK&#47;1_rss.png' style='border: none' />
   </a>
 </noscript>
 <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
