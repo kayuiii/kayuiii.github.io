@@ -11,9 +11,7 @@ tags:
 ---
 
 
-### Tableau 作品鏈接
-
-[川渝系火鍋主要品牌在全國的情況](https://public.tableau.com/views/-_926/1_1?:embed=y&:display_count=yes&publish=yes)
+### Tableau 作品展示
 
 <div class='tableauPlaceholder' id='viz1515251109995' style='position: relative'>
   <noscript>
