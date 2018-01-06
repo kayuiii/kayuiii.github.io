@@ -46,6 +46,8 @@ tags:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
+
 ### 概況
 
 隨著人們生活水平的日益增長，大眾的飲食消費也逐漸多元化、商業化、娛樂化。對比起往常三五好友相聚家中，現在的人們更趨向于到商場等地進行一站式娛樂消費。
