@@ -4,6 +4,9 @@ title: 期末信息可視化項目
 excerpt: 關於川渝系火鍋店的探究
 permalink: /infovis/hotpot/
 categories: works
+tags:
+  - Visualization
+  - Note
 ---
 
 
