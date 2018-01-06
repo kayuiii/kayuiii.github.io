@@ -16,9 +16,6 @@ tags:
 [川渝系火鍋主要品牌在全國的情況](https://public.tableau.com/views/-_926/1_1?:embed=y&:display_count=yes&publish=yes)
 
 [![< 四家川渝系火鍋品牌分佈對比> ](https://public.tableau.com/static/images/-_/-_926/1_1/1_rss.png)](#) 
-
-  
-
 var divElement = document.getElementById('viz1515251109995'); var vizElement = divElement.getElementsByTagName('object')\[0\]; vizElement.style.width='1169px';vizElement.style.height='854px'; var scriptElement = document.createElement('script'); scriptElement.src='https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 ### 概況
