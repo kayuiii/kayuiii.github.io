@@ -11,6 +11,12 @@ tags:
 ---
 
 
+## Tableau 期末作品成果
+點擊圖片即可前往。
+
+[![qimo](http://image.135editor.com/files/users/126/1261920/201801/cruwTgqg_84Xd.png)](https://kayuiii.github.io/infovis/hotpot/)
+
+
 ### 概況
 
 我們組本次報告的主題為：我國部分常見廢棄物的排放情況與處理情況。其中，我們以生活垃圾、工業廢水、廢氣為主要研究主體，整理數據並制成了圖表。
