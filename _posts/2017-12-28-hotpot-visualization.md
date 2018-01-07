@@ -10,7 +10,7 @@ tags:
 
 ## Tableau 期中作品回看
 
-![qizhong](http://image.135editor.com/files/users/126/1261920/201801/VenjW7IC_WJmc.png" alt="微信图片_20180107154308.png)
+![qizhong](http://image.135editor.com/files/users/126/1261920/201801/VenjW7IC_WJmc.png)
 
 ## Tableau 期末作品展示
 
