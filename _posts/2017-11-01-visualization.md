@@ -15,7 +15,7 @@ tags:
 
 [![qimo](http://image.135editor.com/files/users/126/1261920/201801/pSSNGbrA_mXpX.png)](https://kayuiii.github.io/infovis/hotpot/)
 
-### 期中作品展示
+### Tableau 期中作品展示
 <div class='tableauPlaceholder' id='viz1515314098609' style='position: relative'>
 <noscript>
   <a href='#'>
