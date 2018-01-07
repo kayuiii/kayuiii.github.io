@@ -8,8 +8,8 @@ tags:
   - Visualization
 ---
 
-## Tableau 期中作品回看
-
+## Tableau 期中作品回眸
+點擊圖片即可前往。
 [![qizhong](http://image.135editor.com/files/users/126/1261920/201801/VenjW7IC_WJmc.png)](https://kayuiii.github.io/infovis/qizhong/)
 
 ## Tableau 期末作品展示
