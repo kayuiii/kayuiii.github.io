@@ -4,7 +4,6 @@ title: 期中信息可視化項目
 excerpt: 我國部分常見廢棄物的排放情況與處理情況
 permalink: /infovis/qizhong/
 categories: works
-background-image: visualization.png
 tags:
   - Visualization
   - Note
